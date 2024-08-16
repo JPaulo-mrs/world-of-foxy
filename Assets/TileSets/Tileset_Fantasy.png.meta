@@ -1,0 +1,1538 @@
+fileFormatVersion: 2
+guid: 82ba2fcbfa9af434dbbd5501723ac412
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3813696549270024661
+    second: Tileset_Fantasy_0
+  - first:
+      213: -2248325274672808884
+    second: Tileset_Fantasy_1
+  - first:
+      213: 5473477639879989066
+    second: Tileset_Fantasy_2
+  - first:
+      213: -6234611221186698728
+    second: Tileset_Fantasy_3
+  - first:
+      213: -1190088715552867279
+    second: Tileset_Fantasy_4
+  - first:
+      213: 5791227084247067467
+    second: Tileset_Fantasy_5
+  - first:
+      213: -4625679854965149773
+    second: Tileset_Fantasy_6
+  - first:
+      213: 2259824016549369092
+    second: Tileset_Fantasy_7
+  - first:
+      213: -2820176436364501771
+    second: Tileset_Fantasy_8
+  - first:
+      213: -6211295803301824436
+    second: Tileset_Fantasy_9
+  - first:
+      213: 3534827879407855467
+    second: Tileset_Fantasy_10
+  - first:
+      213: 767503011935142098
+    second: Tileset_Fantasy_11
+  - first:
+      213: -485991552984356959
+    second: Tileset_Fantasy_12
+  - first:
+      213: -4542160259133862262
+    second: Tileset_Fantasy_13
+  - first:
+      213: -8443205796038557419
+    second: Tileset_Fantasy_14
+  - first:
+      213: 110230196819275274
+    second: Tileset_Fantasy_15
+  - first:
+      213: 5858532846299728795
+    second: Tileset_Fantasy_16
+  - first:
+      213: 8306678490000858795
+    second: Tileset_Fantasy_17
+  - first:
+      213: 5716075969261044824
+    second: Tileset_Fantasy_18
+  - first:
+      213: -4853731484838344912
+    second: Tileset_Fantasy_19
+  - first:
+      213: 5646220255116864343
+    second: Tileset_Fantasy_20
+  - first:
+      213: 7087425450581015813
+    second: Tileset_Fantasy_21
+  - first:
+      213: 7120592757957834992
+    second: Tileset_Fantasy_22
+  - first:
+      213: -1591148207148437778
+    second: Tileset_Fantasy_23
+  - first:
+      213: 4295636407770810736
+    second: Tileset_Fantasy_24
+  - first:
+      213: -2100199835054955511
+    second: Tileset_Fantasy_25
+  - first:
+      213: 4662029910447936208
+    second: Tileset_Fantasy_26
+  - first:
+      213: 6405787835631642522
+    second: Tileset_Fantasy_27
+  - first:
+      213: 9100921576598281488
+    second: Tileset_Fantasy_28
+  - first:
+      213: 461810356183873047
+    second: Tileset_Fantasy_29
+  - first:
+      213: -2333546581611207691
+    second: Tileset_Fantasy_30
+  - first:
+      213: -2160630103322104329
+    second: Tileset_Fantasy_31
+  - first:
+      213: 7309221102657065925
+    second: Tileset_Fantasy_32
+  - first:
+      213: -2284079359575852858
+    second: Tileset_Fantasy_33
+  - first:
+      213: 1737329297421166936
+    second: Tileset_Fantasy_34
+  - first:
+      213: -2539093954437365374
+    second: Tileset_Fantasy_35
+  - first:
+      213: -6370064014411734478
+    second: Tileset_Fantasy_36
+  - first:
+      213: 8879783707996936291
+    second: Tileset_Fantasy_37
+  - first:
+      213: -3657585518414497142
+    second: Tileset_Fantasy_38
+  - first:
+      213: 7203438091971019373
+    second: Tileset_Fantasy_39
+  - first:
+      213: -3513250912302805425
+    second: Tileset_Fantasy_40
+  - first:
+      213: -5060937229531167743
+    second: Tileset_Fantasy_41
+  - first:
+      213: -3112291041730493598
+    second: Tileset_Fantasy_42
+  - first:
+      213: 1328294472758061982
+    second: Tileset_Fantasy_43
+  - first:
+      213: 2921011097640138671
+    second: Tileset_Fantasy_44
+  - first:
+      213: 9182562481117711211
+    second: Tileset_Fantasy_45
+  - first:
+      213: -8408320662238282238
+    second: Tileset_Fantasy_46
+  - first:
+      213: -2144694119971505442
+    second: Tileset_Fantasy_47
+  - first:
+      213: 3701486700785963654
+    second: Tileset_Fantasy_48
+  - first:
+      213: -3609387563701841235
+    second: Tileset_Fantasy_49
+  - first:
+      213: -3013552579306630518
+    second: Tileset_Fantasy_50
+  - first:
+      213: 3477900067825084819
+    second: Tileset_Fantasy_51
+  - first:
+      213: -5283217414683969202
+    second: Tileset_Fantasy_52
+  - first:
+      213: 6758225275035543760
+    second: Tileset_Fantasy_53
+  - first:
+      213: -8620374928618952095
+    second: Tileset_Fantasy_54
+  - first:
+      213: -1902725672228212309
+    second: Tileset_Fantasy_55
+  - first:
+      213: 7392137607177937508
+    second: Tileset_Fantasy_56
+  - first:
+      213: -2350107823762514911
+    second: Tileset_Fantasy_57
+  - first:
+      213: 8798086710357615443
+    second: Tileset_Fantasy_58
+  - first:
+      213: -6267598752475484731
+    second: Tileset_Fantasy_59
+  - first:
+      213: -2609845113610471390
+    second: Tileset_Fantasy_60
+  - first:
+      213: 3731317936106554612
+    second: Tileset_Fantasy_61
+  - first:
+      213: 1734656097319695316
+    second: Tileset_Fantasy_62
+  - first:
+      213: 8485459659032830756
+    second: Tileset_Fantasy_63
+  - first:
+      213: 8583230717107544459
+    second: Tileset_Fantasy_64
+  - first:
+      213: -2015312811184246597
+    second: Tileset_Fantasy_65
+  - first:
+      213: 5352751860509590396
+    second: Tileset_Fantasy_66
+  - first:
+      213: -7960876917601608960
+    second: Tileset_Fantasy_67
+  - first:
+      213: 1678210844527878763
+    second: Tileset_Fantasy_68
+  - first:
+      213: 6248079219261858416
+    second: Tileset_Fantasy_69
+  - first:
+      213: -3141629794027138100
+    second: Tileset_Fantasy_70
+  - first:
+      213: -8772568098232192831
+    second: Tileset_Fantasy_71
+  - first:
+      213: 1389350892768139240
+    second: Tileset_Fantasy_72
+  - first:
+      213: -1308744703279460000
+    second: Tileset_Fantasy_73
+  - first:
+      213: -4993885154093077378
+    second: Tileset_Fantasy_74
+  - first:
+      213: -5827494823967481047
+    second: Tileset_Fantasy_75
+  - first:
+      213: 109155570002923377
+    second: Tileset_Fantasy_76
+  - first:
+      213: 8228724818009219674
+    second: Tileset_Fantasy_77
+  - first:
+      213: 9213879885968219880
+    second: Tileset_Fantasy_78
+  - first:
+      213: -5075111386679321085
+    second: Tileset_Fantasy_79
+  - first:
+      213: -7128546995205289573
+    second: Tileset_Fantasy_80
+  - first:
+      213: -1245884135365174386
+    second: Tileset_Fantasy_81
+  - first:
+      213: 7064867218748506701
+    second: Tileset_Fantasy_82
+  - first:
+      213: -7848722865457543477
+    second: Tileset_Fantasy_83
+  - first:
+      213: -1290389456183057987
+    second: Tileset_Fantasy_84
+  - first:
+      213: 3661424334105964633
+    second: Tileset_Fantasy_85
+  - first:
+      213: 1718614834053573740
+    second: Tileset_Fantasy_86
+  - first:
+      213: -7342591561332789018
+    second: Tileset_Fantasy_87
+  - first:
+      213: 515645096006200341
+    second: Tileset_Fantasy_88
+  - first:
+      213: -8987623399075074413
+    second: Tileset_Fantasy_89
+  - first:
+      213: 6052257728902480884
+    second: Tileset_Fantasy_90
+  - first:
+      213: 184286706177768498
+    second: Tileset_Fantasy_91
+  - first:
+      213: 8338784700174783675
+    second: Tileset_Fantasy_92
+  - first:
+      213: -5289564451658505708
+    second: Tileset_Fantasy_93
+  - first:
+      213: -6344680333753710916
+    second: Tileset_Fantasy_94
+  - first:
+      213: 7441815754621300883
+    second: Tileset_Fantasy_95
+  - first:
+      213: 5254802974722081621
+    second: Tileset_Fantasy_96
+  - first:
+      213: 3290707824042019116
+    second: Tileset_Fantasy_97
+  - first:
+      213: 130578944236265287
+    second: Tileset_Fantasy_98
+  - first:
+      213: 4914551855594978008
+    second: Tileset_Fantasy_99
+  - first:
+      213: 5398098714615537643
+    second: Tileset_Fantasy_100
+  - first:
+      213: 153842732786132777
+    second: Tileset_Fantasy_101
+  - first:
+      213: -5472112055454633407
+    second: Tileset_Fantasy_102
+  - first:
+      213: -7971421747507673687
+    second: Tileset_Fantasy_103
+  - first:
+      213: 8736232795871483142
+    second: Tileset_Fantasy_104
+  - first:
+      213: -2477758378989730834
+    second: Tileset_Fantasy_105
+  - first:
+      213: -8369829080597747325
+    second: Tileset_Fantasy_106
+  - first:
+      213: -1378887993774027504
+    second: Tileset_Fantasy_107
+  - first:
+      213: 545150600053506727
+    second: Tileset_Fantasy_108
+  - first:
+      213: 5789528562778937628
+    second: Tileset_Fantasy_109
+  - first:
+      213: 376202565839605398
+    second: Tileset_Fantasy_110
+  - first:
+      213: -8838037819642670483
+    second: Tileset_Fantasy_111
+  - first:
+      213: -676281475214894892
+    second: Tileset_Fantasy_112
+  - first:
+      213: -3220653308000404583
+    second: Tileset_Fantasy_113
+  - first:
+      213: -6591756722800043910
+    second: Tileset_Fantasy_114
+  - first:
+      213: 6367615710210921079
+    second: Tileset_Fantasy_115
+  - first:
+      213: -9044977697678025638
+    second: Tileset_Fantasy_116
+  - first:
+      213: -8659065832621698878
+    second: Tileset_Fantasy_117
+  - first:
+      213: 3302574930607624452
+    second: Tileset_Fantasy_118
+  - first:
+      213: -8274734075591334090
+    second: Tileset_Fantasy_119
+  - first:
+      213: 1644647230293634912
+    second: Tileset_Fantasy_120
+  - first:
+      213: 6224490585268801216
+    second: Tileset_Fantasy_121
+  - first:
+      213: 2930822230746139023
+    second: Tileset_Fantasy_122
+  - first:
+      213: -4781113169979336297
+    second: Tileset_Fantasy_123
+  - first:
+      213: 9116961020376611642
+    second: Tileset_Fantasy_124
+  - first:
+      213: 5553895600766864920
+    second: Tileset_Fantasy_125
+  - first:
+      213: 4801840156866320482
+    second: Tileset_Fantasy_126
+  - first:
+      213: 5662088743170766424
+    second: Tileset_Fantasy_127
+  - first:
+      213: -2040784927864207306
+    second: Tileset_Fantasy_128
+  - first:
+      213: -6103693069263032657
+    second: Tileset_Fantasy_129
+  - first:
+      213: 8645225794321323662
+    second: Tileset_Fantasy_130
+  - first:
+      213: -1935215901083764260
+    second: Tileset_Fantasy_131
+  - first:
+      213: -9169387310388025815
+    second: Tileset_Fantasy_132
+  - first:
+      213: -5980901697257949589
+    second: Tileset_Fantasy_133
+  - first:
+      213: 7946255885631137978
+    second: Tileset_Fantasy_134
+  - first:
+      213: -6115757071829668409
+    second: Tileset_Fantasy_135
+  - first:
+      213: -1124308166117047729
+    second: Tileset_Fantasy_136
+  - first:
+      213: 7251858539344294259
+    second: Tileset_Fantasy_137
+  - first:
+      213: 1780704664951825185
+    second: Tileset_Fantasy_138
+  - first:
+      213: 6278250738599553523
+    second: Tileset_Fantasy_139
+  - first:
+      213: 700869338147163772
+    second: Tileset_Fantasy_140
+  - first:
+      213: -3198082891500937405
+    second: Tileset_Fantasy_141
+  - first:
+      213: -3461885081731822244
+    second: Tileset_Fantasy_142
+  - first:
+      213: 6214545305758654311
+    second: Tileset_Fantasy_143
+  - first:
+      213: 7816508251572878363
+    second: Tileset_Fantasy_144
+  - first:
+      213: -4368239052521662025
+    second: Tileset_Fantasy_145
+  - first:
+      213: -101378133272556918
+    second: Tileset_Fantasy_146
+  - first:
+      213: -3024787200800119766
+    second: Tileset_Fantasy_147
+  - first:
+      213: -7172626834032417873
+    second: Tileset_Fantasy_148
+  - first:
+      213: 9039605565944392723
+    second: Tileset_Fantasy_149
+  - first:
+      213: 7114508572662220086
+    second: Tileset_Fantasy_150
+  - first:
+      213: 2565938168062388504
+    second: Tileset_Fantasy_151
+  - first:
+      213: 6186484322012749207
+    second: Tileset_Fantasy_152
+  - first:
+      213: -6646061875507147912
+    second: Tileset_Fantasy_153
+  - first:
+      213: -7518997835422691858
+    second: Tileset_Fantasy_154
+  - first:
+      213: 2866048635904276479
+    second: Tileset_Fantasy_155
+  - first:
+      213: -3545254069631084336
+    second: Tileset_Fantasy_156
+  - first:
+      213: 6530058620654706879
+    second: Tileset_Fantasy_157
+  - first:
+      213: 637316345354738640
+    second: Tileset_Fantasy_158
+  - first:
+      213: -2320419701081768232
+    second: Tileset_Fantasy_159
+  - first:
+      213: -5194743312711224618
+    second: Tileset_Fantasy_160
+  - first:
+      213: 8240049771344798363
+    second: Tileset_Fantasy_161
+  - first:
+      213: 6694153104900514044
+    second: Tileset_Fantasy_162
+  - first:
+      213: 4210800297000997907
+    second: Tileset_Fantasy_163
+  - first:
+      213: 96387210645813602
+    second: Tileset_Fantasy_164
+  - first:
+      213: 1318891856034233651
+    second: Tileset_Fantasy_165
+  - first:
+      213: -1575394316784826710
+    second: Tileset_Fantasy_166
+  - first:
+      213: -7870748033683645063
+    second: Tileset_Fantasy_167
+  - first:
+      213: 126911290846914508
+    second: Tileset_Fantasy_168
+  - first:
+      213: 7840028614584730133
+    second: Tileset_Fantasy_169
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Fantasy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d17f544ec8fce430800000000000000
+      internalID: 3813696549270024661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c389723185cc0e0800000000000000
+      internalID: -2248325274672808884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47171be9e2b5fb40800000000000000
+      internalID: 5473477639879989066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812a08070263a79a0800000000000000
+      internalID: -6234611221186698728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c354a5e94fb7fe0800000000000000
+      internalID: -1190088715552867279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bea2299529e5050800000000000000
+      internalID: 5791227084247067467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf2f180ea84ecfb0800000000000000
+      internalID: -4625679854965149773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405525158f18c5f10800000000000000
+      internalID: 2259824016549369092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc119a1978bcd8d0800000000000000
+      internalID: -2820176436364501771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48f151306b0dc9a0800000000000000
+      internalID: -6211295803301824436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67a04e5a3b3e0130800000000000000
+      internalID: 3534827879407855467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0cf664ce7b6aa00800000000000000
+      internalID: 767503011935142098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e688e1496149f0800000000000000
+      internalID: -485991552984356959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e0e694f4107f0c0800000000000000
+      internalID: -4542160259133862262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114a910015b3da80800000000000000
+      internalID: -8443205796038557419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2feca7cd978100800000000000000
+      internalID: 110230196819275274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b47a87590bd4150800000000000000
+      internalID: 5858532846299728795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae11e37310474370800000000000000
+      internalID: 8306678490000858795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85483f81fc4935f40800000000000000
+      internalID: 5716075969261044824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c4134ee414acb0800000000000000
+      internalID: -4853731484838344912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b2bd538676b5e40800000000000000
+      internalID: 5646220255116864343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50db1f185e79b5260800000000000000
+      internalID: 7087425450581015813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8bb48036d61d260800000000000000
+      internalID: 7120592757957834992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeeae7c22b1be9e0800000000000000
+      internalID: -1591148207148437778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0790a69bd8a2d9b30800000000000000
+      internalID: 4295636407770810736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904273a90679ad2e0800000000000000
+      internalID: -2100199835054955511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2de78c08bd2b040800000000000000
+      internalID: 4662029910447936208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a751e81ee5e850800000000000000
+      internalID: 6405787835631642522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d14d584f7fc4e70800000000000000
+      internalID: 9100921576598281488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716bfe9721ea86600800000000000000
+      internalID: 461810356183873047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3ac386fb39d9fd0800000000000000
+      internalID: -2333546581611207691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd68785e56e302e0800000000000000
+      internalID: -2160630103322104329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d9a0fdd19f6560800000000000000
+      internalID: 7309221102657065925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8fdad8ce15d40e0800000000000000
+      internalID: -2284079359575852858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859eaae8acb3c1810800000000000000
+      internalID: 1737329297421166936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814b6a408353ccd0800000000000000
+      internalID: -2539093954437365374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2326d78678cf897a0800000000000000
+      internalID: -6370064014411734478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368557d3c345b3b70800000000000000
+      internalID: 8879783707996936291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a7a478955ad3dc0800000000000000
+      internalID: -3657585518414497142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62437977c0c7f360800000000000000
+      internalID: 7203438091971019373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ecf55c8ec6e3fc0800000000000000
+      internalID: -3513250912302805425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ce3b5760f3c9b0800000000000000
+      internalID: -5060937229531167743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263060489cbeec4d0800000000000000
+      internalID: -3112291041730493598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Fantasy_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bebdd09cc0f6210800000000000000
+      internalID: 1328294472758061982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
